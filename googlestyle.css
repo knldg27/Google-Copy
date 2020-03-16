@@ -3,7 +3,13 @@
   float: left;
   position: absolute;
   margin: 7px 0 0 10px;
-  padding-left: 15px
+}
+
+.rightnav {
+  color: grey;
+  float: right;
+  position: absolute;
+  margin: 7px 0 0 750px;
 }
 
 ul ,ol ,li {
@@ -11,4 +17,5 @@ ul ,ol ,li {
   margin: 0;
   padding: 0;
   display: inline;
+  padding-right: 15px;
 }
