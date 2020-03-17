@@ -1,21 +1,15 @@
-.leftnav {
+.nav{
   color: grey;
-  float: left;
-  position: absolute;
   margin: 7px 0 0 10px;
 }
 
-.rightnav {
-  color: grey;
-  float: right;
-  position: absolute;
-  margin: 7px 0 0 750px;
+li {
+  list-style: none;
+  display: inline;
+  padding-right: 25px;
 }
 
-ul ,ol ,li {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: inline;
-  padding-right: 15px;
+#RS {
+  float: right;
+  padding-left: 10px;
 }
