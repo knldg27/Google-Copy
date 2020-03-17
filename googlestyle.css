@@ -19,3 +19,13 @@ li {
   width: 272;
   text-align: center;
 }
+
+.five-promo {
+  text-align: center;
+  padding-top: 100px;
+  font-size: small;
+}
+
+#five-link {
+  text-decoration: none;
+}
