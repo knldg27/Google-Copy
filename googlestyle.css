@@ -13,3 +13,9 @@ li {
   float: right;
   padding-left: 10px;
 }
+
+.logo {
+  padding-top: 109px;
+  width: 272;
+  text-align: center;
+}
