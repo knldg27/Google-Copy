@@ -1,3 +1,7 @@
+a {
+  color: grey;
+  text-decoration: none;
+}
 .nav{
   color: grey;
   list-style: none;
@@ -12,12 +16,15 @@
   background: #f2f2f2;
   border-top: 1px solid #e4e4e4;
   left: 0;
+  line-height: 10px;
 }
 
 li {
   list-style: none;
   display: inline;
   padding-right: 25px;
+  font-family: arial , sans-serif;
+  font-size: 15px;
 }
 
 #RS {
@@ -39,4 +46,5 @@ li {
 
 #five-link {
   text-decoration: none;
+  color: #609;
 }
